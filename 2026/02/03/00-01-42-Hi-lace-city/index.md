@@ -1,6 +1,6 @@
 ---
 title: Hi lace city
-share-description: This is a 3D version of the lace city idea. Each color of ball represents the distance between the two points that it represents
+share-description: This is a 3D version of the lace city idea. Each color of ball represents the distance between the two points that it represents (except the white ones which are only one point).
 image: https://2lindell.github.io/vzome-sharing/2026/02/03/00-01-42-Hi-lace-city/Hi-lace-city.png
 layout: design
 ---
@@ -15,3 +15,4 @@ layout: design
 
 
 [Source folder](<https://github.com/2lindell/vzome-sharing/tree/main/2026/02/03/00-01-42-Hi-lace-city/>)
+
